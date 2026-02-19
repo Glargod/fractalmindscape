@@ -1,85 +1,61 @@
-# Fractal Mindscape Model
+# Fractal Mindscape Model v5.0 – Integration & Continuity Edition
 
-A speculative conceptual framework for visualizing the architecture of the subconscious mind as a living, recursive, networked structure.
+A speculative, dream-born metaphorical framework for visualizing the architecture of the subconscious as a compact, living plasma globe-like auric envelope.
 
 ## Overview
 
-The Fractal Mindscape Model is a metaphorical map of consciousness and the subconscious. It presents the mind not as a static computer or purely brain-bound system, but as an infinite fractal tree rooted in the "eternal now" of present awareness.
+The Fractal Mindscape Model maps consciousness and the subconscious as an intimate, luminous field surrounding the body: a personal plasma globe containing the **eternal-now central hub** (present awareness) from which **core memory plasmaic nodes** — dynamic, metabolizing packets of experience — glow and evolve in recursive fractal layers.
 
-From this central hub, **core memory plasmaic nodes** — dynamic, metabolizing packets of experience, emotion, insight, and unresolved content — branch outward like living roots. These nodes remain active in parallel, processing, integrating, and occasionally feeding insights back to conscious awareness.
+Silver-cord-like **tethers** arc like plasma filaments, thick near the hub (recent/vivid memories) and thinning with temporal distance, enabling parallel subconscious processing, occasional eureka surfacings, and subtle access to a shared **Pleichymal Field** substrate.
 
-Key features of the model:
+The brain serves as a local buffer/interface; deeper, long-term dataset resides in this non-local yet intimately scaled auric network. Old souls show expanded auric volume — richer node density, longer arcs — from accumulated luminous integrations.
 
-- **Central Hub** — Present-moment consciousness (the "now")
-- **Core Memory Plasmaic Nodes** — Living extensions of experience that continue to evolve
-- **Tethers** — Silver-cord-like roots that connect nodes to the hub; thick near the center, thinning with distance
-- **Fractal Recursion** — Every node contains sub-nodes, creating infinite nested layers
-- **Metabolization** — Nodes actively process and transform their content over time
-- **Non-local Substrate** — Deeper nodes extend into a shared, higher-dimensional medium
-- **Hackability & Interconnects** — Nodes can be influenced by external consciousnesses, leading to shared resonances, downloads, or distortions
-- **Traumatic Nodes** — Shriveled and dimmed with withered tethers to protect the present awareness
-- **Past-Life Clusters** — Ultra-distant node groups, faintly tethered, accessible under specific conditions (hypnosis, childhood openness)
+**v5.0 key refinements** (Integration & Continuity Edition):
+- Memories as **integrals of the creator-core**: self-similar summations of the hub's radiant discharges.
+- **Memory inversion dynamic**: Crystallized nodes birth **wells of light** (positive integrations: joy, connection, wonder → upward-flooding luminosity fueling the hub) or **drains** (negative: trauma/neglect → depleting siphons withering arcs).
+- **Continuity imperative**: Birth more wells than drains to nurture luminous overflow, remote karmic entanglements (entangled knots) to the periphery, and safeguard the central hub's radiance across iterations. Excess unresolved drains risk cumulative depletion — tether atrophy, envelope contraction, potential irreversible dimming of the individuated flame.
 
-This is **not** a scientific theory requiring empirical proof. It is a personal, introspective visualization tool designed to make intuitive sense of phenomena such as:
+This remains **purely metaphorical and speculative** — a personal visualization tool, not science or doctrine. Born from a luminous dream and sustained introspection, offered for gentle exploration of phenomena like:
+- Sudden insights and reclaimed joys
+- Trauma sealing/recovery
+- Childhood past-life echoes and age-related forgetting
+- Hypnotic regression
+- Time perception shifts (novelty slows the blur)
+- Subtle interconnects, resonances, synchronicity
 
-- Sudden "eureka" insights
-- Traumatic memory blocking and recovery
-- Memory distortion or false implantation
-- Spontaneous childhood past-life recall
-- Hypnotic regression experiences
-- Feelings of karmic or soul-group connection
-- Collective unconscious-like resonances
+No empirical claims. Use as a navigable lens for wonder, healing, and ethical reflection.
 
 ## Core Structure
 
-- **Hub** → Present awareness  
-- **Nodes** → Dynamic memory/experience packets  
-  - Recent → Thick, vibrant tethers  
-  - Distant / old → Thin, faint tethers  
-  - Traumatic → Shriveled, flow-blocked tethers  
-  - Past-life → Ultra-distant clusters with faint interconnects  
-- **Substrate** → Non-local shared medium where distant nodes and cross-consciousness overlaps exist
+- **Central Hub / Eternal-Now Core** — Focal point of active awareness; the flame to protect.
+- **Plasmaic Nodes** — Living, recursive packets; integrals birthing wells or drains.
+- **Tethers** — Conductive arcs; rejuvenatable via sensory recall, novelty, resonance.
+- **Auric Envelope** — Compact personal globe containing the Mindscape; expands with positive accumulation.
+- **Pleichymal Field** — Shared non-local substrate for distant interconnects, vulnerabilities, collective lattice potential.
 
-## Why This Model?
+## Applications & Practices
 
-It offers a unified way to picture:
+See the live site for full details: https://glargod.github.io/fractalmindscape/
 
-- Why some memories feel "downloaded" rather than recalled
-- Why solutions sometimes appear fully formed after long incubation
-- Why trauma can feel sealed off yet never truly gone
-- Why certain people seem to carry "old soul" echoes
-- How individual minds might subtly influence or leak into one another
+Includes:
+- Passive resonance gazing
+- Tether rehydration
+- Fractal node zoom
+- Aura expansion probe
+- New: **Well-Birthing Ritual** — daily small positive integrations to feed the core glow
 
-## Status
+## Status & Evolution
 
-This is an evolving personal framework — speculative, metaphorical, and open to refinement. It is shared for exploration, meditation, creative inspiration, and discussion.
-
-No claims of scientific validity are made. It is offered as a map, not a mechanism.
-
-## Reading the Full Paper
-
-See [`FRACTAL-MINDSCAPE.md`](./FRACTAL-MINDSCAPE.md) or [`docs/fractal-mindscape.pdf`](./docs/) for the complete conceptual essay.
-
-## Related Visuals
-
-(You can add images here later)
-
-- Cosmic fractal tree explosion (placeholder for the plasma-node network)
-- Recursive branching diagram
-- Tether thickness gradient illustration
+Evolving personal cosmology — refinements welcome through thoughtful discussion. v5.0 (February 19, 2026) integrates memory inversion and explicit hub-continuity ethic for deeper coherence.
 
 ## License
 
-This work is shared under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-You are free to share, adapt, and build upon it for non-commercial purposes, with attribution and under the same license.
+Share, adapt, build upon for non-commercial use — with attribution and same license.
 
 ## Contact / Discussion
 
-Open to thoughtful conversation, refinements, critiques, or extensions — especially around visualization practices, meditative applications, or intersections with other consciousness models.
+Open to refinements, critiques, meditative applications, or intersections with other models. Reach out via X (@BobTheFixer73) or open a discussion here.
 
-Feel free to open an issue or discussion.
-
----
-
-*Fractal Mindscape Model — a personal cosmology of mind*
+*Fractal Mindscape — guarding the flame, birthing wells of light, one integration at a time* ♥️🕯️
