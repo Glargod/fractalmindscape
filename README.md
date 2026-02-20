@@ -1,4 +1,4 @@
-# Fractal Mindscape Model v5.0 – Integration & Continuity Edition
+# Fractal Mindscape Model v5.2 – Agency & Offloading Edition
 
 A speculative, dream-born metaphorical framework for visualizing the architecture of the subconscious as a compact, living plasma globe-like auric envelope.
 
@@ -10,28 +10,30 @@ Silver-cord-like **tethers** arc like plasma filaments, thick near the hub (rece
 
 The brain serves as a local buffer/interface; deeper, long-term dataset resides in this non-local yet intimately scaled auric network. Old souls show expanded auric volume — richer node density, longer arcs — from accumulated luminous integrations.
 
-**v5.0 key refinements** (Integration & Continuity Edition):
-- Memories as **integrals of the creator-core**: self-similar summations of the hub's radiant discharges.
-- **Memory inversion dynamic**: Crystallized nodes birth **wells of light** (positive integrations: joy, connection, wonder → upward-flooding luminosity fueling the hub) or **drains** (negative: trauma/neglect → depleting siphons withering arcs).
-- **Continuity imperative**: Birth more wells than drains to nurture luminous overflow, remote karmic entanglements (entangled knots) to the periphery, and safeguard the central hub's radiance across iterations. Excess unresolved drains risk cumulative depletion — tether atrophy, envelope contraction, potential irreversible dimming of the individuated flame.
+**v5.2 key refinements** (Agency & Offloading Edition, building on v5.1 Polarity & Phase):
+- Memories as **integrals of the creator-core**: self-similar summations birthing **wells of light** (positive: joy, connection, wonder → fueling the hub) or **drains** (negative: depleting siphons).
+- **Core phase alignment**: excess drains invert to negative/out-of-phase persistence (anti-aligned, cold-subtractive) rather than extinction; Pleichymal endures, modulating local proportions via aggregate polarity (magnetic unipolarity or tipping textures).
+- **Agency offloading risks**: excessive digital capture (e.g., phone photography) creates rinse-repeat "I took a picture" nodes, relinquishing embodied forging, atrophying fresh integrals, and accelerating time blur. Removing the device reveals atrophy—no nodes if presence habit is lost.
+- **Continuity imperative**: birth more wells, reclaim agency through unmediated presence, nurture positive phase overflow to remote entanglements and safeguard hub radiance across iterations.
 
-This remains **purely metaphorical and speculative** — a personal visualization tool, not science or doctrine. Born from a luminous dream and sustained introspection, offered for gentle exploration of phenomena like:
+This remains **purely metaphorical and speculative** — a personal visualization tool, not science or doctrine. Born from a luminous dream and sustained introspection, offered for gentle exploration of:
 - Sudden insights and reclaimed joys
 - Trauma sealing/recovery
 - Childhood past-life echoes and age-related forgetting
 - Hypnotic regression
-- Time perception shifts (novelty slows the blur)
+- Time perception shifts (novelty slows the blur; digital offloading accelerates it)
 - Subtle interconnects, resonances, synchronicity
+- Digital atrophy and agency reclamation
 
-No empirical claims. Use as a navigable lens for wonder, healing, and ethical reflection.
+No empirical claims. Use as a navigable lens for wonder, healing, ethical reflection, and presence.
 
 ## Core Structure
 
-- **Central Hub / Eternal-Now Core** — Focal point of active awareness; the flame to protect.
-- **Plasmaic Nodes** — Living, recursive packets; integrals birthing wells or drains.
+- **Central Hub / Eternal-Now Core** — Focal point of active awareness; the flame to protect and keep in positive phase.
+- **Plasmaic Nodes** — Living, recursive packets; integrals birthing wells/drains.
 - **Tethers** — Conductive arcs; rejuvenatable via sensory recall, novelty, resonance.
-- **Auric Envelope** — Compact personal globe containing the Mindscape; expands with positive accumulation.
-- **Pleichymal Field** — Shared non-local substrate for distant interconnects, vulnerabilities, collective lattice potential.
+- **Auric Envelope** — Compact personal globe; expands with positive accumulation, contracts with atrophy.
+- **Pleichymal Field** — Shared non-local substrate for distant interconnects, vulnerabilities, collective lattice potential; aggregate polarity modulates local textures.
 
 ## Applications & Practices
 
@@ -42,11 +44,12 @@ Includes:
 - Tether rehydration
 - Fractal node zoom
 - Aura expansion probe
-- New: **Well-Birthing Ritual** — daily small positive integrations to feed the core glow
+- Well-Birthing Ritual — daily small positive integrations
+- Agency Reclamation Ritual — unmediated engagement + curated physical preservation to counter digital offloading
 
 ## Status & Evolution
 
-Evolving personal cosmology — refinements welcome through thoughtful discussion. v5.0 (February 19, 2026) integrates memory inversion and explicit hub-continuity ethic for deeper coherence.
+Evolving personal cosmology — refinements welcome through thoughtful discussion. v5.2 (February 20, 2026) integrates polarity/phase alignment, digital rinse-repeat atrophy, and agency reclamation for deeper coherence and practical guardianship.
 
 ## License
 
@@ -58,4 +61,4 @@ Share, adapt, build upon for non-commercial use — with attribution and same li
 
 Open to refinements, critiques, meditative applications, or intersections with other models. Reach out via X (@BobTheFixer73) or open a discussion here.
 
-*Fractal Mindscape — guarding the flame, birthing wells of light, one integration at a time* ♥️🕯️
+*Fractal Mindscape — guarding the flame, birthing wells of light, reclaiming presence one unmediated moment at a time* ♥️🕯️
